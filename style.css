@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+}
+
+h1,h3,p {
+    text-align: center;
+    font-weight: normal;
+    padding: 9px;
+}
+
+#btn1, #btn2 {
+    margin:auto;
+    display: block;
+}
